@@ -37,3 +37,11 @@ h3 {
   color: white;
   font-size: 11px;
 }
+
+#middleimage h3 {
+  color: white;
+}
+
+#about p, #work p, #team p, #contact p {
+  font-size: 14px;
+}
