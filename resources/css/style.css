@@ -27,3 +27,13 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+
+#copyrightandnavlinks {
+  text-align: left;
+  background-color: dimgray;
+}
+
+#copyrightandnavlinks span {
+  color: white;
+  font-size: 11px;
+}
